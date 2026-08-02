@@ -1,45 +1,57 @@
+# Responsive Restaurant Website
 
-# To-Do List Web App
+# Objective
+The objective of this project is to deploy a static website using GitHub Pages and understand version control, static hosting, and deployment workflows.
 
-# Project Overview
-This is a simple To-Do List Web Application built using **HTML, CSS, and Vanilla JavaScript**. It allows users to add tasks, mark them as completed, and delete them without reloading the page.
+# Project Description
+This project is a responsive restaurant website developed using HTML and CSS. The website contains a navigation bar, a hero section, a menu section, and a footer. CSS media queries were used to make the website mobile-friendly.
 
 # Features
-- Add new tasks
-- Mark tasks as completed
-- Delete tasks
-- Dynamic UI updates using JavaScript
-- Responsive and clean user interface
+- Responsive design
+- Navigation menu
+- Hero section
+- Restaurant menu section
+- Mobile-friendly layout
+- Image gallery
+- GitHub Pages deployment
 
 # Technologies Used
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- Git
+- GitHub
+- GitHub Pages
+
+# Project Structure
+index.html
+task4.css
+bread.jpg
+diet.jpeg
+nachos.jpg
+pasta.jpg
+salmon.jpg
+soup.jpg
+spicypotato.jpg
+README.md
 
 
-# Key Concepts Used
-- DOM Manipulation
-- Event Listeners
-- Dynamic Element Creation
-- CSS Class Toggle
-- JavaScript Functions
+# Deployment Steps
+1. Create a GitHub repository.
+2. Upload the project files.
+3. Commit and push the files.
+4. Enable GitHub Pages.
+5. Access the live website.
 
-# Output
-
-- Add a task using the input field.
-- Click on a task to mark it as completed.
-- Click the **Delete** button to remove a task.
-
-# Learning Outcome
-
+# Outcome
 This project helped me understand:
 
-- HTML page structure
-- CSS styling and layout
-- JavaScript DOM manipulation
-- Event handling
-- Dynamic UI updates without page reload
+- Version control using Git and GitHub.
+- Static website hosting using GitHub Pages.
+- Deployment workflow.
+- Responsive web design.
 
-# Author
-**Shreya Halingali**
+# Live Website
+https://shreyahalingali.github.io/
 
+# GitHub Repository
+https://github.com/Shreyahalingali/Shreyahalingali.github.io
